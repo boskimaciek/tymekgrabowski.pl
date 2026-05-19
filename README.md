@@ -1,15 +1,15 @@
-# 🎂 tmekgrabowski.pl
+# 🎂 tymekgrabowski.pl
 
 Osobista strona Tymka Grabowskiego — tworzona i rozwijana przez Tymka samodzielnie.
 
 ## 🌐 Strona
 
-👉 **[tmekgrabowski.pl](https://tmekgrabowski.pl)**
+👉 **[tymekgrabowski.pl](https://tymekgrabowski.pl)**
 
 ## 📁 Struktura projektu
 
 ```
-tmekgrabowski.pl/
+tymekgrabowski.pl/
 │
 ├── index.html          ← Strona główna
 ├── README.md           ← Ten plik
@@ -30,7 +30,7 @@ Strona jest hostowana za darmo na **GitHub Pages**.
 ### Jak to działa?
 
 1. Każda zmiana wrzucona (`push`) do brancha `main` automatycznie aktualizuje stronę
-2. Strona jest dostępna pod adresem `tmekgrabowski.pl`
+2. Strona jest dostępna pod adresem `tymekgrabowski.pl`
 
 ### Jak edytować stronę?
 
